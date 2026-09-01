@@ -20,6 +20,11 @@
         <li>🎨 Skilled in <b>HTML5, CSS3, JavaScript (ES6+), Bootstrap, and C++</b>.</li>
         <li>⚡ Experienced with layout design using <b>Flexbox & CSS Grid</b>, animations, and REST APIs.</li>
         <li>📚 Currently enhancing my web development skills & learning new front-end tools.</li>
+        <li>🔷 Skilled in <b>TypeScript</b> for typed JavaScript development.</li>
+<li>🅰️ Learning and building web applications with <b>Angular</b>.</li>
+<li>🎨 Familiar with <b>Sass (SCSS)</b> for scalable and maintainable styling.</li>
+<li>💠 Experienced with <b>jQuery</b> for DOM manipulation and interactive web features.</li>
+<li>🌊 Familiar with <b>Tailwind CSS</b> for utility-first responsive UI development.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
