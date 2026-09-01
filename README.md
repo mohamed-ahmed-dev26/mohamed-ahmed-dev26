@@ -62,6 +62,7 @@
   <li><b><a href="https://mohamed-ahmed-dev26.github.io/Elite-Home/">Elite Home</a></b> - Modern & responsive real estate landing page featuring clean layout structure and interactive UI components.</li>
   <li><b><a href="https://mohamed-ahmed-dev26.github.io/fitcore-gym/">FitCore Gym</a></b> - Dynamic fitness and gym website designed with custom CSS styling, responsive grid layouts, and user-friendly navigation.</li>
   <li><b><a href="https://mohamed-ahmed-dev26.github.io/What-s-For-Dinner/">What's For Dinner</a></b> - Interactive recipe finding web app designed to generate meal suggestions with clean UI design and smooth interactions.</li>
+  <li><b><a href="https://mohamed-ahmed-dev26.github.io/Game-Arena/">Game Arena</a></b> - Interactive gaming website featuring a modern UI, responsive design, and smooth user interactions.</li>
 </ul>
 
 <br>
